@@ -11,19 +11,19 @@
 
 | 레벨(Circle) | 프로젝트 | 개요 | 종료일자 |
 |:-----------:|:-------|:----|:-------|
-| 0 | [Lift](https://github.com/paikwiki/libft) | The aim of this project is to code a C library regrouping usual functions that you’ll be allowed to use in all your other projects. | 2020.4.17. |
-| 1 | [Get_next_line](https://github.com/paikwiki/get-next-line) | The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor. | 2020.7.31. |
-| 1 | [Ft_printf](https://github.com/paikwiki/ft-printf) | This project is pretty straight forward. You will recode printf. Hopefully you will be able to reuse it in future project without the fear of being flagged as a cheater. You will mainly learn how to use variadic arguments. | 2020.9.2. |
-| 2 | [Ft_server](https://github.com/paikwiki/ft-server) | This is a System Administration subject. You will discover Docker and you will set up your first web server. | 2020.9.9. |
-| 2 | [Cub3D](https://github.com/paikwiki/cub3d) | This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. | 2020.10.4. |
-| 2 | [Exam Rank 02](https://github.com/paikwiki/42cursus-exam02) | Write a function will store, in the parameter "line", a line that has been read from the file descriptor 0. | 2020.10.6. |
-| 3 | [Libasm](https://github.com/paikwiki/libasm) | The aim of this project is to get familiar with assembly language. | 2020.12.20. |
-| 3 | [Minishell](https://github.com/paikwiki/minishell-new) | The objective of this project is for you to create a simple shell. Yes, your own little bash or zsh. You will learn a lot about processes and file descriptors. | 2021.2.3. |
-| 3 | [Ft_services](https://github.com/paikwiki/ft-services) | This is a System Administration and Networking project. | 2021.2.25. |
-| 3 | [Exam Rank 03](https://github.com/paikwiki/42cursus-exam03) | Write a program that will read an "operation file" and print the result in the terminal | 2021.3.5. |
-| 4 | [Push_swap](https://github.com/paikwiki/push-swap) | This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed you’ll have to manipulate various types of algorithms and choose the one (of many) most appropriate solution for an optimized data sorting. | 2021.3.17. |
-| 4 | [Philosophers](https://github.com/paikwiki/philosophers) |  In this project, you will learn the basics of threading a process. You will learn how to make threads. You will discover the mutex. | 2021.3.25. |
-| 4 | [CPP Module00](https://github.com/paikwiki/cpp-module-00) | Namespace, class, member functions, stdio stream, initialization lists, static, const, and lots of basic stuf | 2021.3.28. |
+| 0 | [Libft](https://github.com/paikwiki/libft) | 앞으로 진행할 프로젝트를 위해, 일반적인 함수를 모은 C 라이브러리를 만든다. | 2020.4.17. |
+| 1 | [Get_next_line](https://github.com/paikwiki/get-next-line) | 파일 디스크립터로부터 개행을 기준으로 한 줄씩 읽어오는 함수를 만든다. | 2020.7.31. |
+| 1 | [Ft_printf](https://github.com/paikwiki/ft-printf) | `printf` 함수를 직접 만들어 보며 가변인자 사용법 익힌다. | 2020.9.2. |
+| 2 | [Ft_server](https://github.com/paikwiki/ft-server) | 도커(Docker)를 이용해 첫 웹 서버(Nginx + Wordpress + MySQL)를 실행한다. | 2020.9.9. |
+| 2 | [Cub3D](https://github.com/paikwiki/cub3d) | 최초의 FPS 게임인 울펜슈타인(Wolfenstein)을 만들어보는 프로젝트. 레이 캐스팅(ray-casting)을 이용해 미로 속 동적 뷰를 구현한다. | 2020.10.4. |
+| 2 | [Exam Rank 02](https://github.com/paikwiki/42cursus-exam02) | 파일 디스크립터 `0`(stdin)로부터 읽어온 행을 저장하는 함수를 만든다. | 2020.10.6. |
+| 3 | [Libasm](https://github.com/paikwiki/libasm) | 어셈블리어와 친숙해지기 위한 프로젝트. | 2020.12.20. |
+| 3 | [Minishell](https://github.com/paikwiki/minishell-new) | 간단한 쉘을 구현해보는 프로젝트. 프로세스와 파일 디스크립터에 대해 익힌다. | 2021.2.3. |
+| 3 | [Ft_services](https://github.com/paikwiki/ft-services) | 시스템 관리와 네트워킹에 대한 프로젝트. 쿠버네티스(Kubernetes)를 이용해 웹어플리케이션을 운영한다. | 2021.2.25. |
+| 3 | [Exam Rank 03](https://github.com/paikwiki/42cursus-exam03) | "operation file"을 받아 지시대로 터미널 화면에 도형을 출력한다. | 2021.3.5. |
+| 4 | [Push_swap](https://github.com/paikwiki/push-swap) | 최적화된 데이터 정렬법을 찾아내는 프로젝트. 최대한 적은 수의 동작으로, 제한적인 동작들을 이용해 변형 스택에 데이터를 정렬한다. | 2021.3.17. |
+| 4 | [Philosophers](https://github.com/paikwiki/philosophers) | 프로세스 쓰레딩에 대한 기초를 배우는 프로젝트. 쓰레드(thread)와 뮤텍스(mutex), 세마포어(semaphore)에 대해 익힌다. | 2021.3.25. |
+| 4 | [CPP Module00](https://github.com/paikwiki/cpp-module-00) | 토픽: Namespace, class, member functions, stdio stream, initialization lists, static, const, and lots of basic stuff | 2021.3.28. |
 | 4 | [CPP Module01](https://github.com/paikwiki/cpp-module-01) | Memory allocation, References, Pointers to members, File streams | 2021.4.3. |
 | 4 | [CPP Module02](https://github.com/paikwiki/cpp-module-02) | Ad-hoc polymorphism, operators overload and canonical classes | 2021.4.4. |
 | 4 | [CPP Module03](https://github.com/paikwiki/cpp-module-03) | Inheritance | 2021.4.9. |
@@ -38,5 +38,3 @@
 | 5 | Exam Rank 05 | Write programs in C++ | - |
 | 6 | Ft_transendence | ft_transcendence is a project on a language you should have never worked with. With a framework that you should have never heard of. To do something that you’ve never done before. Remind yourself of the beginning of your journey in computer science. Now look where you are standing. Time to shine. | - |
 | 6 | Exam Rank 06 | - | - |
-
-
