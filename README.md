@@ -20,7 +20,7 @@
 |:-----------:|:-------|:----|:-------|
 | 0 | [Libft](https://github.com/paikwiki/libft) | 앞으로 진행할 프로젝트를 위해, 일반적인 함수를 모은 C 라이브러리를 만든다. | 2020.4.17. |
 | 1 | [Get_next_line](https://github.com/paikwiki/get-next-line) | 파일 디스크립터로부터 개행을 기준으로 한 줄씩 읽어오는 함수를 만든다. | 2020.7.31. |
-| 1 | [Ft_printf](https://github.com/paikwiki/ft-printf) | `printf` 함수를 직접 만들어 보며 가변인자 사용법 익힌다. | 2020.9.2. |
+| 1 | [Ft_printf](https://github.com/paikwiki/ft-printf) | `printf` 함수를 직접 만들어 보며 가변인자 사용법을 익힌다. | 2020.9.2. |
 | 2 | [Ft_server](https://github.com/paikwiki/ft-server) | 도커(Docker)를 이용해 첫 웹 서버(Nginx + Wordpress + MySQL)를 실행한다. | 2020.9.9. |
 | 2 | [Cub3D](https://github.com/paikwiki/cub3d) | 최초의 FPS 게임인 울펜슈타인(Wolfenstein)을 만들어보는 프로젝트. 레이 캐스팅(ray-casting)을 이용해 미로 속 동적 뷰를 구현한다. | 2020.10.4. |
 | 2 | [Exam Rank 02:lock:](https://github.com/paikwiki/42cursus-exam02) | 파일 디스크립터 `0`(stdin)로부터 읽어온 행을 저장하는 함수를 만든다. | 2020.10.6. |
@@ -43,5 +43,5 @@
 | 5 | [Ft_containers](https://github.com/paikwiki/ft-containers) | C++ 컨테이너를 재구현하면서 컨테이너에 대해 익힌다. | 2021.6.7. |
 | 5 | [Webserv:lock:](https://github.com/innercircle-byebye/sucbaek) | HTTP RFC를 준수하여 실제 브라우저에서 테스트 가능한 HTTP 서버를 만든다. | On progress |
 | 5 | Exam Rank 05 | 시험에서 요구하는 C++ 프로그램을 작성한다. | - |
-| 6 | ft_transcendence | 아직 한번도 사용해보지 않은 언어와 프레임워크로 진행하는 프로젝트. 컴퓨터 공학을 위한 여정의 첫번째 관문임을 명심한다. "Time to shine." | - |
+| 6 | ft_transcendence | 아직 한번도 사용해보지 않은 언어와 프레임워크로 진행하는 프로젝트. | - |
 | 6 | Exam Rank 06 | - | - |
