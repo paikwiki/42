@@ -23,11 +23,11 @@
 | 1 | [Ft_printf](https://github.com/paikwiki/ft-printf) | `printf` 함수를 직접 만들어 보며 가변인자 사용법 익힌다. | 2020.9.2. |
 | 2 | [Ft_server](https://github.com/paikwiki/ft-server) | 도커(Docker)를 이용해 첫 웹 서버(Nginx + Wordpress + MySQL)를 실행한다. | 2020.9.9. |
 | 2 | [Cub3D](https://github.com/paikwiki/cub3d) | 최초의 FPS 게임인 울펜슈타인(Wolfenstein)을 만들어보는 프로젝트. 레이 캐스팅(ray-casting)을 이용해 미로 속 동적 뷰를 구현한다. | 2020.10.4. |
-| 2 | [Exam Rank 02](https://github.com/paikwiki/42cursus-exam02) | 파일 디스크립터 `0`(stdin)로부터 읽어온 행을 저장하는 함수를 만든다. | 2020.10.6. |
+| 2 | [Exam Rank 02:lock:](https://github.com/paikwiki/42cursus-exam02) | 파일 디스크립터 `0`(stdin)로부터 읽어온 행을 저장하는 함수를 만든다. | 2020.10.6. |
 | 3 | [Libasm](https://github.com/paikwiki/libasm) | 어셈블리어와 친숙해지기 위한 프로젝트. | 2020.12.20. |
 | 3 | [Minishell](https://github.com/paikwiki/minishell-new) | 간단한 쉘을 구현해보는 프로젝트. 프로세스와 파일 디스크립터에 대해 익힌다. | 2021.2.3. |
 | 3 | [Ft_services](https://github.com/paikwiki/ft-services) | 시스템 관리와 네트워킹에 대한 프로젝트. 쿠버네티스(Kubernetes)를 이용해 웹어플리케이션을 운영한다. | 2021.2.25. |
-| 3 | [Exam Rank 03](https://github.com/paikwiki/42cursus-exam03) | "operation file"을 받아 지시대로 터미널 화면에 도형을 출력한다. | 2021.3.5. |
+| 3 | [Exam Rank 03:lock:](https://github.com/paikwiki/42cursus-exam03) | "operation file"을 받아 지시대로 터미널 화면에 도형을 출력한다. | 2021.3.5. |
 | 4 | [Push_swap](https://github.com/paikwiki/push-swap) | 최적화된 데이터 정렬법을 찾아내는 프로젝트. 최대한 적은 수의 동작으로, 제한적인 동작들을 이용해 변형 스택에 데이터를 정렬한다. | 2021.3.17. |
 | 4 | [Philosophers](https://github.com/paikwiki/philosophers) | 프로세스 스레딩에 대한 기초를 배우는 프로젝트. 스레드(thread)와 뮤텍스(mutex), 세마포어(semaphore)에 대해 익힌다. | 2021.3.25. |
 | 4 | [CPP Module 00](https://github.com/paikwiki/cpp-module-00) | 토픽: `namespace`, `class`, 멤버 함수, 입출력 스트림, 초기화 리스트, `static`, `const` 등, 기본 지식 | 2021.3.28. |
@@ -39,9 +39,9 @@
 | 4 | [CPP Module 06](https://github.com/paikwiki/cpp-module-06) | 토픽: C++ 캐스팅 | 2021.4.20. |
 | 4 | [CPP Module 07](https://github.com/paikwiki/cpp-module-07) | 토픽: C++ 템플릿 | 2021.4.26. |
 | 4 | [CPP Module 08](https://github.com/paikwiki/cpp-module-08) | 토픽: 템플릿 컨테이너, 이터레이터, 알고리즘 | 2021.5.3. |
-| 4 | [Exam Rank 04](https://github.com/paikwiki/42cursus-exam04) | 쉘 커맨드를 실행하듯이 동작하는 프로그램을 만든다. | 2021.4.20. |
+| 4 | [Exam Rank 04:lock:](https://github.com/paikwiki/42cursus-exam04) | 쉘 커맨드를 실행하듯이 동작하는 프로그램을 만든다. | 2021.4.20. |
 | 5 | [Ft_containers](https://github.com/paikwiki/ft-containers) | C++ 컨테이너를 재구현하면서 컨테이너에 대해 익힌다. | 2021.6.7. |
-| 5 | [Webserv](https://github.com/innercircle-byebye/sucbaek) | HTTP RFC를 준수하여 실제 브라우저에서 테스트 가능한 HTTP 서버를 만든다. | On progress |
+| 5 | [Webserv:lock:](https://github.com/innercircle-byebye/sucbaek) | HTTP RFC를 준수하여 실제 브라우저에서 테스트 가능한 HTTP 서버를 만든다. | On progress |
 | 5 | Exam Rank 05 | 시험에서 요구하는 C++ 프로그램을 작성한다. | - |
 | 6 | ft_transcendence | 아직 한번도 사용해보지 않은 언어와 프레임워크로 진행하는 프로젝트. 컴퓨터 공학을 위한 여정의 첫번째 관문임을 명심한다. "Time to shine." | - |
 | 6 | Exam Rank 06 | - | - |
