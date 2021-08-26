@@ -43,5 +43,5 @@
 | 5 | [Ft_containers:lock:](https://github.com/paikwiki/ft-containers) | C++ 컨테이너를 재구현하면서 컨테이너에 대해 익힌다. | 2021.6.7. |
 | 5 | [Webserv:lock:](https://github.com/innercircle-byebye/vresbew) | HTTP RFC를 준수하여 실제 브라우저에서 테스트 가능한 HTTP 서버를 만든다. | 2021.8.14. |
 | 5 | Exam Rank 05 | 시험에서 요구하는 C++ 프로그램을 작성한다. | - |
-| 6 | ft_transcendence | 아직 한번도 사용해보지 않은 언어와 프레임워크로 진행하는 프로젝트. | - |
+| 6 | ft_transcendence | 아직 한번도 사용해보지 않은 언어와 프레임워크로 진행하는 프로젝트. | On progress |
 | 6 | Exam Rank 06 | - | - |
