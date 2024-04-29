@@ -18,30 +18,28 @@
 
 |    Circle   | 프로젝트 | 개요 | 종료일자 |
 |:-----------:|:-------|:----|:-------|
-| 0 | [Libft:lock:](https://github.com/paikwiki/libft) | 앞으로 진행할 프로젝트를 위해, 일반적인 함수를 모은 C 라이브러리를 만든다. | 2020.4.17. |
-| 1 | [Get_next_line:lock:](https://github.com/paikwiki/get-next-line) | 파일 디스크립터로부터 개행을 기준으로 한 줄씩 읽어오는 함수를 만든다. | 2020.7.31. |
-| 1 | [Ft_printf:lock:](https://github.com/paikwiki/ft-printf) | `printf` 함수를 직접 만들어 보며 가변인자 사용법을 익힌다. | 2020.9.2. |
-| 2 | [Ft_server:lock:](https://github.com/paikwiki/ft-server) | 도커(Docker)를 이용해 첫 웹 서버(Nginx + Wordpress + MySQL)를 실행한다. | 2020.9.9. |
-| 2 | [Cub3D:lock:](https://github.com/paikwiki/cub3d) | 최초의 FPS 게임인 울펜슈타인(Wolfenstein)을 만들어보는 프로젝트. 레이 캐스팅(ray-casting)을 이용해 미로 속 동적 뷰를 구현한다. | 2020.10.4. |
-| 2 | [Exam Rank 02:lock:](https://github.com/paikwiki/42cursus-exam02) | 파일 디스크립터 `0`(stdin)로부터 읽어온 행을 저장하는 함수를 만든다. | 2020.10.6. |
-| 3 | [Libasm:lock:](https://github.com/paikwiki/libasm) | 어셈블리어와 친숙해지기 위한 프로젝트. | 2020.12.20. |
-| 3 | [Minishell:lock:](https://github.com/paikwiki/minishell-new) | 간단한 쉘을 구현해보는 프로젝트. 프로세스와 파일 디스크립터에 대해 익힌다. | 2021.2.3. |
-| 3 | [Ft_services:lock:](https://github.com/paikwiki/ft-services) | 시스템 관리와 네트워킹에 대한 프로젝트. 쿠버네티스(Kubernetes)를 이용해 웹어플리케이션을 운영한다. | 2021.2.25. |
-| 3 | [Exam Rank 03:lock:](https://github.com/paikwiki/42cursus-exam03) | "operation file"을 받아 지시대로 터미널 화면에 도형을 출력한다. | 2021.3.5. |
-| 4 | [Push_swap:lock:](https://github.com/paikwiki/push-swap) | 최적화된 데이터 정렬법을 찾아내는 프로젝트. 최대한 적은 수의 동작으로, 제한적인 동작들을 이용해 변형 스택에 데이터를 정렬한다. | 2021.3.17. |
-| 4 | [Philosophers:lock:](https://github.com/paikwiki/philosophers) | 프로세스 스레딩에 대한 기초를 배우는 프로젝트. 스레드(thread)와 뮤텍스(mutex), 세마포어(semaphore)에 대해 익힌다. | 2021.3.25. |
-| 4 | [CPP Module 00:lock:](https://github.com/paikwiki/cpp-module-00) | 토픽: `namespace`, `class`, 멤버 함수, 입출력 스트림, 초기화 리스트, `static`, `const` 등, 기본 지식 | 2021.3.28. |
-| 4 | [CPP Module 01:lock:](https://github.com/paikwiki/cpp-module-01) | 토픽: 메모리 할당, 참조, 포인터, 파일 스트림 | 2021.4.3. |
-| 4 | [CPP Module 02:lock:](https://github.com/paikwiki/cpp-module-02) | 토픽: 임시 다형성(Ad-hoc polymorphism), 연산자 오버로드와 캐노니컬 클래스(canonical classes) | 2021.4.4. |
-| 4 | [CPP Module 03:lock:](https://github.com/paikwiki/cpp-module-03) | 토픽: 상속 | 2021.4.9. |
-| 4 | [CPP Module 04:lock:](https://github.com/paikwiki/cpp-module-04) | 토픽: 서브타입 다형성(Subtype polymorphism), 추상 클래스, 인터페이스 | 2021.4.15. |
-| 4 | [CPP Module 05:lock:](https://github.com/paikwiki/cpp-module-05) | 토픽: 예외처리 | 2021.4.17. |
-| 4 | [CPP Module 06:lock:](https://github.com/paikwiki/cpp-module-06) | 토픽: C++ 캐스팅 | 2021.4.20. |
-| 4 | [CPP Module 07:lock:](https://github.com/paikwiki/cpp-module-07) | 토픽: C++ 템플릿 | 2021.4.26. |
-| 4 | [CPP Module 08:lock:](https://github.com/paikwiki/cpp-module-08) | 토픽: 템플릿 컨테이너, 이터레이터, 알고리즘 | 2021.5.3. |
-| 4 | [Exam Rank 04:lock:](https://github.com/paikwiki/42cursus-exam04) | 쉘 커맨드를 실행하듯이 동작하는 프로그램을 만든다. | 2021.4.20. |
-| 5 | [Ft_containers:lock:](https://github.com/paikwiki/ft-containers) | C++ 컨테이너를 재구현하면서 컨테이너에 대해 익힌다. | 2021.6.7. |
-| 5 | [Webserv:lock:](https://github.com/innercircle-byebye/vresbew) | HTTP RFC를 준수하여 실제 브라우저에서 테스트 가능한 HTTP 서버를 만든다. | 2021.8.14. |
-| 5 | Exam Rank 05 | 시험에서 요구하는 C++ 프로그램을 작성한다. | - |
-| 6 | ft_transcendence | 아직 한번도 사용해보지 않은 언어와 프레임워크로 진행하는 프로젝트. | On progress |
-| 6 | Exam Rank 06 | - | - |
+| 0 | [Libft :lock:](https://github.com/paikwiki/libft) | 앞으로 진행할 프로젝트를 위해, 일반적인 함수를 모은 C 라이브러리를 만든다. | 2020.4.17. |
+| 1 | [Get_next_line :lock:](https://github.com/paikwiki/get-next-line) | 파일 디스크립터로부터 개행을 기준으로 한 줄씩 읽어오는 함수를 만든다. | 2020.7.31. |
+| 1 | [Ft_printf :lock:](https://github.com/paikwiki/ft-printf) | `printf` 함수를 직접 만들어 보며 가변인자 사용법을 익힌다. | 2020.9.2. |
+| 2 | [Ft_server](https://github.com/paikwiki/ft-server) | 도커(Docker)를 이용해 첫 웹 서버(Nginx + Wordpress + MySQL)를 실행한다. | 2020.9.9. |
+| 2 | [Cub3D](https://github.com/paikwiki/cub3d) | 최초의 FPS 게임인 울펜슈타인(Wolfenstein)을 만들어보는 프로젝트. 레이 캐스팅(ray-casting)을 이용해 미로 속 동적 뷰를 구현한다. | 2020.10.4. |
+| 2 | [Exam Rank 02 :lock:](https://github.com/paikwiki/42cursus-exam02) | 파일 디스크립터 `0`(stdin)로부터 읽어온 행을 저장하는 함수를 만든다. | 2020.10.6. |
+| 3 | [Libasm :lock:](https://github.com/paikwiki/libasm) | 어셈블리어와 친숙해지기 위한 프로젝트. | 2020.12.20. |
+| 3 | [Minishell :lock:](https://github.com/paikwiki/minishell-new) | 간단한 쉘을 구현해보는 프로젝트. 프로세스와 파일 디스크립터에 대해 익힌다. | 2021.2.3. |
+| 3 | [Ft_services](https://github.com/paikwiki/ft-services) | 시스템 관리와 네트워킹에 대한 프로젝트. 쿠버네티스(Kubernetes)를 이용해 웹어플리케이션을 운영한다. | 2021.2.25. |
+| 3 | [Exam Rank 03 :lock:](https://github.com/paikwiki/42cursus-exam03) | "operation file"을 받아 지시대로 터미널 화면에 도형을 출력한다. | 2021.3.5. |
+| 4 | [Push_swap :lock:](https://github.com/paikwiki/push-swap) | 최적화된 데이터 정렬법을 찾아내는 프로젝트. 최대한 적은 수의 동작으로, 제한적인 동작들을 이용해 변형 스택에 데이터를 정렬한다. | 2021.3.17. |
+| 4 | [Philosophers](https://github.com/paikwiki/philosophers) | 프로세스 스레딩에 대한 기초를 배우는 프로젝트. 스레드(thread)와 뮤텍스(mutex), 세마포어(semaphore)에 대해 익힌다. | 2021.3.25. |
+| 4 | [CPP Module 00 :lock:](https://github.com/paikwiki/cpp-module-00) | 토픽: `namespace`, `class`, 멤버 함수, 입출력 스트림, 초기화 리스트, `static`, `const` 등, 기본 지식 | 2021.3.28. |
+| 4 | [CPP Module 01 :lock:](https://github.com/paikwiki/cpp-module-01) | 토픽: 메모리 할당, 참조, 포인터, 파일 스트림 | 2021.4.3. |
+| 4 | [CPP Module 02 :lock:](https://github.com/paikwiki/cpp-module-02) | 토픽: 임시 다형성(Ad-hoc polymorphism), 연산자 오버로드와 캐노니컬 클래스(canonical classes) | 2021.4.4. |
+| 4 | [CPP Module 03 :lock:](https://github.com/paikwiki/cpp-module-03) | 토픽: 상속 | 2021.4.9. |
+| 4 | [CPP Module 04 :lock:](https://github.com/paikwiki/cpp-module-04) | 토픽: 서브타입 다형성(Subtype polymorphism), 추상 클래스, 인터페이스 | 2021.4.15. |
+| 4 | [CPP Module 05 :lock:](https://github.com/paikwiki/cpp-module-05) | 토픽: 예외처리 | 2021.4.17. |
+| 4 | [CPP Module 06 :lock:](https://github.com/paikwiki/cpp-module-06) | 토픽: C++ 캐스팅 | 2021.4.20. |
+| 4 | [CPP Module 07 :lock:](https://github.com/paikwiki/cpp-module-07) | 토픽: C++ 템플릿 | 2021.4.26. |
+| 4 | [CPP Module 08 :lock:](https://github.com/paikwiki/cpp-module-08) | 토픽: 템플릿 컨테이너, 이터레이터, 알고리즘 | 2021.5.3. |
+| 4 | [Exam Rank 04 :lock:](https://github.com/paikwiki/42cursus-exam04) | 쉘 커맨드를 실행하듯이 동작하는 프로그램을 만든다. | 2021.4.20. |
+| 5 | [Ft_containers :lock:](https://github.com/paikwiki/ft-containers) | C++ 컨테이너를 재구현하면서 컨테이너에 대해 익힌다. | 2021.6.7. |
+| 5 | [Webserv](https://github.com/innercircle-byebye/vresbew) | HTTP RFC를 준수하여 실제 브라우저에서 테스트 가능한 HTTP 서버를 만든다. | 2021.8.14. |
+| 6 | [ft_transcendence](https://github.com/innercircle-byebye/ft_transcendence) | 아직 한번도 사용해보지 않은 언어와 프레임워크로 진행하는 프로젝트. | 2021.11.19 |
